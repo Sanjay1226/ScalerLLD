@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Client {
     public static void main(String[] args) {
-        Instructor instructor   = new Instructor();
+        Instructor instructor  = new Instructor();
         instructor.setName("Naman");
         instructor.setDescription("Super Cool");
        // instructor.name  = "Naman"; // from parent class
