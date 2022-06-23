@@ -5,7 +5,6 @@ public class Main {
         Database bd = Database.getInstance();
         Database database = Database.getInstance();
 
-
         Random random = new Random();
     }
 }
